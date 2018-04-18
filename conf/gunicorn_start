@@ -1,7 +1,7 @@
 #!/bin/bash
 
 NAME="CRM"                                  # Name of the application
-DJANGODIR=~/Example            # Django project directory
+DJANGODIR=~/convocation-spjimr            # Django project directory
 # SOCKFILE=~/crm/run/gunicorn.sock  # we will communicte using this unix socket
 NUM_WORKERS=4                                     # how many worker processes should Gunicorn spawn
 TIMEOUT=300

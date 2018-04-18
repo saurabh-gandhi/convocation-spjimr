@@ -1,0 +1,69 @@
+2018-04-18 22:04:07,574 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:04:07,582 INFO RPC interface 'supervisor' initialized
+2018-04-18 22:04:07,583 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-04-18 22:04:07,585 INFO daemonizing the supervisord process
+2018-04-18 22:04:07,585 INFO supervisord started with pid 9827
+2018-04-18 22:07:42,361 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:12:43,280 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:12:43,289 INFO RPC interface 'supervisor' initialized
+2018-04-18 22:12:43,289 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-04-18 22:12:43,292 INFO daemonizing the supervisord process
+2018-04-18 22:12:43,292 INFO supervisord started with pid 9895
+2018-04-18 22:17:09,893 INFO spawned: 'crm' with pid 9933
+2018-04-18 22:17:10,151 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:17:11,154 INFO spawned: 'crm' with pid 9938
+2018-04-18 22:17:11,384 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:17:13,390 INFO spawned: 'crm' with pid 9943
+2018-04-18 22:17:13,602 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:17:16,607 INFO spawned: 'crm' with pid 9948
+2018-04-18 22:17:16,814 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:17:17,816 INFO gave up: crm entered FATAL state, too many start retries too quickly
+2018-04-18 22:17:38,012 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:17:38,023 INFO RPC interface 'supervisor' initialized
+2018-04-18 22:17:38,023 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-04-18 22:17:38,026 INFO daemonizing the supervisord process
+2018-04-18 22:17:38,026 INFO supervisord started with pid 9964
+2018-04-18 22:20:15,733 INFO spawned: 'crm' with pid 9999
+2018-04-18 22:20:15,943 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:20:16,946 INFO spawned: 'crm' with pid 10004
+2018-04-18 22:20:17,152 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:20:19,158 INFO spawned: 'crm' with pid 10009
+2018-04-18 22:20:19,364 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:20:22,370 INFO spawned: 'crm' with pid 10014
+2018-04-18 22:20:22,617 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:20:23,619 INFO gave up: crm entered FATAL state, too many start retries too quickly
+2018-04-18 22:25:21,957 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:25:38,734 INFO spawned: 'crm' with pid 10088
+2018-04-18 22:25:38,942 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:25:39,945 INFO spawned: 'crm' with pid 10093
+2018-04-18 22:25:40,151 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:25:42,158 INFO spawned: 'crm' with pid 10098
+2018-04-18 22:25:42,369 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:25:45,374 INFO spawned: 'crm' with pid 10103
+2018-04-18 22:25:45,597 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:25:46,599 INFO gave up: crm entered FATAL state, too many start retries too quickly
+2018-04-18 22:30:41,460 INFO spawned: 'crm' with pid 10187
+2018-04-18 22:30:41,694 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:30:42,697 INFO spawned: 'crm' with pid 10192
+2018-04-18 22:30:42,927 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:30:44,933 INFO spawned: 'crm' with pid 10197
+2018-04-18 22:30:45,174 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:30:48,180 INFO spawned: 'crm' with pid 10202
+2018-04-18 22:30:48,382 INFO exited: crm (exit status 3; not expected)
+2018-04-18 22:30:48,783 INFO gave up: crm entered FATAL state, too many start retries too quickly
+2018-04-18 22:41:01,860 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:41:01,869 INFO RPC interface 'supervisor' initialized
+2018-04-18 22:41:01,869 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-04-18 22:41:01,872 INFO daemonizing the supervisord process
+2018-04-18 22:41:01,872 INFO supervisord started with pid 10350
+2018-04-18 22:41:14,551 INFO spawned: 'crm' with pid 10358
+2018-04-18 22:41:15,761 INFO success: crm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-18 22:43:12,521 INFO waiting for crm to stop
+2018-04-18 22:43:12,638 INFO stopped: crm (exit status 0)
+2018-04-18 22:45:51,353 CRIT Supervisor running as root (no user in config file)
+2018-04-18 22:45:51,363 INFO RPC interface 'supervisor' initialized
+2018-04-18 22:45:51,363 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-04-18 22:45:51,366 INFO daemonizing the supervisord process
+2018-04-18 22:45:51,366 INFO supervisord started with pid 10503
+2018-04-18 22:46:12,721 INFO spawned: 'crm' with pid 10512
+2018-04-18 22:46:13,900 INFO success: crm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
