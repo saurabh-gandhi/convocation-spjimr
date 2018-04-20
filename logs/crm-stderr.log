@@ -396,3 +396,360 @@ ImportError: No module named Example.wsgi
 Not Found: /css/style.css
 Not Found: /css/style.css
 Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /favicon.ico
+Not Found: /muieblackcat
+Not Found: /phpmyadmin/scripts/setup.php
+Not Found: /myadmin/scripts/setup.php
+Not Found: /MyAdmin/scripts/setup.php
+Not Found: /css/style.css
+Not Found: /xmlrpc.php
+Not Found: /css/style.css
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /css/style.css
+Not Found: /css/style.css
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /favicon.ico
+Not Found: /css/style.css
+Not Found: /favicon.ico
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /administrator/manifests/files/joomla.xml
+Not Found: /favicon.ico
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /wp-login.php
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /wp-login.php
+Not Found: /Img/login-down.png
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /wp-login.php
+Not Found: /css/style.css
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /wls-wsat/CoordinatorPortType
+Not Found: /user/register
+Not Found: /wp-login.php
+Not Found: /wp-login.php
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /wp-login.php
+Not Found: /wp-login.php
+Not Found: /Img/login-down.png
+Not Found: /user/register
+Not Found: /wp-login.php
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /wp-login.php
+Not Found: /user/register
+Not Found: /rss.php
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /css/style.css
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Forbidden (CSRF cookie not set.): /
+Not Found: /rss.php
+Not Found: /wp-login.php
+Not Found: /css/style.css
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /css/style.css
+Not Found: /favicon.ico
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /css/style.css
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: '566p'
+Not Found: /css/style.css
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Internal Server Error: /api/update_entry/
+Traceback (most recent call last):
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/root/venv/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/convocation-spjimr/pages/views.py", line 20, in update_entry
+    stud = Student.objects.get(id=int(stud_id))
+ValueError: invalid literal for int() with base 10: 'undefined'
+Not Found: /user/register
